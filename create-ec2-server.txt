@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Create an EC2 server
-
+# Edited by Japhet
 Parameters:
   VPC:
     Type: AWS::EC2::VPC::Id
